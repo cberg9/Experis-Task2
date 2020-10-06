@@ -1,0 +1,9 @@
+2020-10-06T15:28:04.251609400 12 files were found. The function took 30 ms to execute.
+2020-10-06T15:28:06.749998600 1 files were found. The function took 1 ms to execute.
+2020-10-06T15:28:07.911140400 6 files were found. The function took 2 ms to execute.
+2020-10-06T15:28:09.092163300 1 files were found. The function took 10 ms to execute.
+2020-10-06T15:28:11.213401500 4 files were found. The function took 1 ms to execute.
+2020-10-06T15:29:19.437150300  The size of Dracula.txt is 863KB on disk. The function took 1797 ms to execute.
+2020-10-06T15:29:19.493157200 Dracula.txt consist of 15973 lines. The function took 42 ms to execute.
+2020-10-06T15:29:24.519074900 The term 'while' was found 62 times. The function took 135 ms to execute.
+2020-10-06T15:30:31.482802300 ..\NewFiles\Dracula.txt was change to ..\NewFiles\Draccula.txt. The function took 5762 ms to execute.

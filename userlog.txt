@@ -1,0 +1,31 @@
+
+2020-10-06T11:09:18.940067 NewFiles\Dracula.txtwas change toNewFiles\Draccula.txt. The function took 4310 ms to execute.
+2020-10-06T12:26:44.145648900 12 files were found. The function took 38 ms to execute.
+2020-10-06T12:26:45.230085900 1 files were found. The function took 1 ms to execute.
+2020-10-06T12:26:47.206804700 6 files were found. The function took 3 ms to execute.
+2020-10-06T12:26:47.855860300 1 files were found. The function took 0 ms to execute.
+2020-10-06T12:26:48.411942900 4 files were found. The function took 19 ms to execute.
+2020-10-06T12:43:09.631936200 12 files were found. The function took 28 ms to execute.
+2020-10-06T12:43:10.767476200 1 files were found. The function took 0 ms to execute.
+2020-10-06T12:43:11.196024200 6 files were found. The function took 4 ms to execute.
+2020-10-06T12:43:11.880744100 1 files were found. The function took 10 ms to execute.
+2020-10-06T12:43:14.104967700 4 files were found. The function took 1 ms to execute.
+2020-10-06T12:52:32.599111700 4 files were found. The function took 1 ms to execute.
+2020-10-06T12:57:07.319812100 4 files were found. The function took 0 ms to execute.
+2020-10-06T13:13:23.357383500 12 files were found. The function took 16 ms to execute.
+2020-10-06T13:13:24.358476800 1 files were found. The function took 0 ms to execute.
+2020-10-06T13:13:25.439575 6 files were found. The function took 11 ms to execute.
+2020-10-06T13:13:26.383666100 1 files were found. The function took 0 ms to execute.
+2020-10-06T13:13:27.422771300 4 files were found. The function took 1 ms to execute.
+2020-10-06T13:19:01.209811400  The size of Meme_1.jpeg is 63KB on disk. The function took 141 ms to execute.
+2020-10-06T13:19:01.243812800 Meme_1.jpeg consist of 498 lines. The function took 30 ms to execute.
+2020-10-06T13:22:46.215086800  The size of Meme_1.jpeg is 63KB on disk. The function took 142 ms to execute.
+2020-10-06T13:22:46.252088600 Meme_1.jpeg consist of 498 lines. The function took 34 ms to execute.
+2020-10-06T13:23:38.416469800  The size of Dracula.txt is 863KB on disk. The function took 1780 ms to execute.
+2020-10-06T13:23:38.458470800 Dracula.txt consist of 15973 lines. The function took 40 ms to execute.
+2020-10-06T13:23:38.673488500 The term '' was found 15973 times. The function took 160 ms to execute.
+2020-10-06T13:24:06.132355200 NewFiles\Dracula.txt was change to NewFiles\Dracula. The function took 5266 ms to execute.
+2020-10-06T13:25:45.007485600 NewFiles\Dracula.txt was change to NewFiles\Draccula.txt. The function took 7717 ms to execute.
+2020-10-06T13:26:50.753274300  The size of Dracula.txt is 863KB on disk. The function took 1838 ms to execute.
+2020-10-06T13:26:50.797277300 Dracula.txt consist of 15973 lines. The function took 41 ms to execute.
+2020-10-06T14:33:50.082203300 12 files were found. The function took 46 ms to execute.
