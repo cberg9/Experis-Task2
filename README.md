@@ -8,5 +8,6 @@
 - The user can get information of a specific file. The user can also search for a word in .txt-files.
 - The user can rename a file.
 
+A logging service is also provided that prints date, time and how long it takes to execute a task.
 
 Images of the java commands to run and compile the application is provided in the repository.
